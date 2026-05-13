@@ -22,7 +22,7 @@ export default function KamishimaBankSite() {
               <img
                 src="/logo.png"
                 alt="上島銀行ロゴ"
-                className="w-24 h-24 object-contain"
+                className="w-50 h-50 object-contain"
               />
 
               <div>
